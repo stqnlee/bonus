@@ -1,0 +1,18 @@
+KMP algorithm tests
+
+Test 1 - Short:
+Text:    abracadabra
+Pattern: abra
+Positions: 0, 7
+
+Test 2 - Medium:
+Text:    aaabaaaabaaabaaaab
+Pattern: aaabaa
+Positions: 0, 5, 9
+
+Test 3 - Long:
+Text length: 14000
+Pattern: cab
+Number of occurrences: 2000
+3, 10, 17, 24, 31, ..., 13968, 13975, 13982, 13989, 13996
+
